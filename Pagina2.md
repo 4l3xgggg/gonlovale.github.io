@@ -3,7 +3,7 @@ title: Pagina2
 layout: home
 nav_order: 2
 ---
-[Inicio]([[https://just-the-docs.com](https://es.wikipedia.org/wiki/Wikipedia:Portada](https://4l3xgggg.github.io/))){: .btn .btn-green }
+[Inicio](4l3xgggg.github.io/){: .btn .btn-green }
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
