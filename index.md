@@ -3,7 +3,7 @@ title: Inicio
 layout: home
 nav_order: 1
 ---
-
+search_enabled: false
 
 [Wikipedia]([https://just-the-docs.com](https://es.wikipedia.org/wiki/Wikipedia:Portada)){: .btn .btn-purple }
 
