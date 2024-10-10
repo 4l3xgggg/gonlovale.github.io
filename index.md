@@ -7,7 +7,7 @@ search_enabled: false
 
 [Wikipedia]([https://just-the-docs.com](https://es.wikipedia.org/wiki/Wikipedia:Portada)){: .btn .btn-purple }
 
-favicon_ico: "logolaliga.png"
+favicon_ico: "/logolaliga.ico"
 
 logo: "/assets/images/logolaliga.png"
 
