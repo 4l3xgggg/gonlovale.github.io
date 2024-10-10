@@ -1,6 +1,7 @@
 ---
 title: Pagina3
 layout: home
+nav_order: 3
 ---
 
 [Inicio]([[https://just-the-docs.com](https://es.wikipedia.org/wiki/Wikipedia:Portada](https://4l3xgggg.github.io/))){: .btn .btn-blue }
