@@ -2,6 +2,13 @@
 title: Inicio
 layout: home
 ---
+
+---
+title: T
+parent: S
+grand_parent: X
+---
+
 [Wikipedia]([https://just-the-docs.com](https://es.wikipedia.org/wiki/Wikipedia:Portada)){: .btn .btn-purple }
 
 
