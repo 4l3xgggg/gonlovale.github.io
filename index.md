@@ -5,9 +5,6 @@ nav_order: 1
 ---
 
 
-[Link la liga](https://www.laliga.com/es-GB)
-
-
 
 logo: "logolaliga.png"
 
