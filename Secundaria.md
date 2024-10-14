@@ -1,5 +1,5 @@
 ---
-title: Menu
+title: Historia
 parent: Menu
 nav_order: 4
 ---
