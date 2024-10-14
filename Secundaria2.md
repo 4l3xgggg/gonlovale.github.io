@@ -17,6 +17,5 @@ Ayoze Pérez  Villarreal
 6
 
 ![Lo Celso](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRxL_OYBqfzljfWzjF3fls_Vr-u5iYkBKplOwwqz--yCPuh_SmCsICbQEB9iKRstz293mSCjFXCs3X3o255H2re7gtDTpFXt6xJOw)
-
 Giovani Lo Celso  Betis
 5
