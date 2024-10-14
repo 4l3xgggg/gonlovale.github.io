@@ -1,6 +1,6 @@
 ---
 title: Equipos
-parent: Pagina2
+parent: Menú
 nav_order: 4
 ---
 
