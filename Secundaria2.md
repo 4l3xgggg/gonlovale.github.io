@@ -1,6 +1,7 @@
 ---
 title: Maximos goleadores
 parent: Menu
+layout: home
 nav_order: 5
 ---
 
