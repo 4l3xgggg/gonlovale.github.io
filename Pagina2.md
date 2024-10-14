@@ -1,5 +1,5 @@
 ---
-title: Menú
+title: Menu
 layout: home
 nav_order: 2
 ---
