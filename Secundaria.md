@@ -1,6 +1,7 @@
 ---
 title: Historia
 parent: Menu
+layout: home
 nav_order: 4
 ---
 
