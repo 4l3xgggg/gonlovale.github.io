@@ -8,9 +8,9 @@ favicon_ico: "/logolaliga.ico"
 
 nav_external_links:
   -tittle: Pagina de la liga
-  url: https://www.laliga.com/es-GB
-  hide_icon: false
-  opens_in_new_tab: true
+    url: https://www.laliga.com/es-GB
+    hide_icon: false
+    opens_in_new_tab: true
 
 
 search_enabled: false
