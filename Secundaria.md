@@ -1,6 +1,6 @@
 ---
 title: Menu
-parent: Pagina2
+parent: Menu
 nav_order: 4
 ---
 
