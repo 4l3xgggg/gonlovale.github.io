@@ -6,9 +6,9 @@ nav_order: 1
 
 
 
-logo: "logolaliga.png"
 
-La Primera División de España, es la máxima categoría masculina del sistema de ligas de fútbol de España y una de las principales competiciones del país. El vigente campeón es el Real Madrid C. F. La organiza desde 1984 la Liga Nacional de Fútbol Profesional tras suceder a la Real Federación Española de Fútbol. Wikipedia
+
+La **Primera División** de España, es la **máxima categoría** masculina del sistema de ligas de **fútbol** de España y una de las principales competiciones del país. La organiza desde 1984 la **Liga Nacional de Fútbol** Profesional tras suceder a la Real Federación Española de Fútbol. Wikipedia
 Fundación: 1929, España
 Director ejecutivo: Javier Gómez Molina (2013–)
 Presidente: Javier Tebas
