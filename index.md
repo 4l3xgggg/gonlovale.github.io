@@ -9,7 +9,7 @@ https://www.laliga.com/es-GB
 
 
 
-logo: "logolaliga.png"
+logo: "/logolaliga.png"
 
 
 La Primera División de España, es la máxima categoría masculina del sistema de ligas de fútbol de España y una de las principales competiciones del país. El vigente campeón es el Real Madrid C. F. La organiza desde 1984 la Liga Nacional de Fútbol Profesional tras suceder a la Real Federación Española de Fútbol. Wikipedia
