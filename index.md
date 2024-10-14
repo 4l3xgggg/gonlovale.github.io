@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-[Wikipedia]([https://just-the-docs.com](https://es.wikipedia.org/wiki/Wikipedia:Portada)){: .btn .btn-purple }
+https://www.laliga.com/es-GB
 
 
 
