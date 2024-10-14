@@ -1,5 +1,5 @@
 ---
-title: Secundaria2
+title: Maximos goleadores
 parent: Pagina2
 nav_order: 5
 ---
